@@ -1,0 +1,11 @@
+C:\Users\georg\Desktop\licenta text\LogicGatesVisualization\LogicGatesVisualization\bin\Debug\LogicGatesVisualization.exe.config
+C:\Users\georg\Desktop\licenta text\LogicGatesVisualization\LogicGatesVisualization\bin\Debug\LogicGatesVisualization.exe
+C:\Users\georg\Desktop\licenta text\LogicGatesVisualization\LogicGatesVisualization\bin\Debug\LogicGatesVisualization.pdb
+C:\Users\georg\Desktop\licenta text\LogicGatesVisualization\LogicGatesVisualization\bin\Debug\Newtonsoft.Json.dll
+C:\Users\georg\Desktop\licenta text\LogicGatesVisualization\LogicGatesVisualization\bin\Debug\Newtonsoft.Json.xml
+C:\Users\georg\Desktop\licenta text\LogicGatesVisualization\LogicGatesVisualization\obj\Debug\LogicGatesVisualization.csproj.AssemblyReference.cache
+C:\Users\georg\Desktop\licenta text\LogicGatesVisualization\LogicGatesVisualization\obj\Debug\LogicGatesVisualization.csproj.SuggestedBindingRedirects.cache
+C:\Users\georg\Desktop\licenta text\LogicGatesVisualization\LogicGatesVisualization\obj\Debug\LogicGatesVisualization.csproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\licenta text\LogicGatesVisualization\LogicGatesVisualization\obj\Debug\LogicGatesVisualization.csproj.CopyComplete
+C:\Users\georg\Desktop\licenta text\LogicGatesVisualization\LogicGatesVisualization\obj\Debug\LogicGatesVisualization.exe
+C:\Users\georg\Desktop\licenta text\LogicGatesVisualization\LogicGatesVisualization\obj\Debug\LogicGatesVisualization.pdb
